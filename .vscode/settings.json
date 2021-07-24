@@ -1,0 +1,22 @@
+{
+    "python.pythonPath": "C:\\Users\\USER\\envs\\test\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+
+    "workbench.colorCustomizations": {
+        "editor.background": "#000000", 
+        "sideBar.background": "#000000",
+        "sideBarSectionHeader.background": "#000000",
+        "panel.background": "#000000",
+        "editorGroupHeader.tabsBackground": "#000000",
+        "tab.activeBackground": "#000000",
+        "titleBar.activeBackground": "#000000",
+        "titleBar.inactiveBackground": "#000000",
+        "tab.inactiveBackground": "#000000",
+        "statusBar.background": "#000000",
+        "statusBar.foreground": "#ffffff",
+        "activityBar.background": "#000000",
+        "activityBar.activeBackground": "#000000"
+    
+}
+}
